@@ -7,6 +7,7 @@ use warnings;
 
 print "Hello Git, Goodbye Clearcase !\n";
 
+print "Ca sent le multi branches... je dis ca, je dis rien...\n";
 
 exit 0
 
